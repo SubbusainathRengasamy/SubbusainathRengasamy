@@ -7,8 +7,9 @@
 - Follow me on [dev.to](https://dev.to/subbusainath)
 
 ## Blog Posts
-[SNS,SQS,StepFunction - When to use what](https://www.antstack.io/blog/SNS-SQS-StepFunction-When-to-Use-What/)
-[How to create a server side pagination REST Api endpoint using nodejs, prisma with postgresql](https://dev.to/subbusainath/how-to-create-server-side-pagination-rest-api-endpoint-using-nodejs-prisma-with-postgresql-54l6)
+- [SNS,SQS,StepFunction - When to use what](https://www.antstack.io/blog/SNS-SQS-StepFunction-When-to-Use-What/)
+
+- [How to create a server side pagination REST Api endpoint using nodejs, prisma with postgresql](https://dev.to/subbusainath/how-to-create-server-side-pagination-rest-api-endpoint-using-nodejs-prisma-with-postgresql-54l6)
 
 <!---
 SubbusainathRengasamy/SubbusainathRengasamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
